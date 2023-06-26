@@ -1,0 +1,33 @@
+.img_product{
+    width: 80%;
+    height: 400px;
+
+}
+@media (max-width:575px) {
+    .img_product{
+        width: 94%;
+    height: 423px;
+
+    }
+    .small-delevery{
+        font-size: 15px;
+    }
+}
+@media (max-width:400px) {
+    .img_product {
+        width: 91%;
+        height: 350px;
+    }
+}
+@media (max-width:360px) {
+    .img_product {
+        width: 91%;
+        height: 333px;
+    }
+}
+@media (max-width:300px) {
+    .img_product {
+        width: 91%;
+        height: 275px;
+    }
+}

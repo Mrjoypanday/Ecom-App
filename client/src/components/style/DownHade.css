@@ -1,0 +1,8 @@
+.navbar{
+    box-shadow:  0 8px 6px -6px gray;
+    border-top: 0.3px solid gray !important;
+    --webkit-box-shadow: 0 8px 6px -6px gray;
+}
+.active{
+    border-bottom: 1px blue;
+}
